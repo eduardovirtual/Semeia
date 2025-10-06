@@ -24,7 +24,7 @@ Nosso objetivo é combater a fome de forma *sustentável*, *transparente* e *efi
 
 1. Clone o repositório  
    ```bash
-   git clone https://github.com/teu-usuario/semeia.git
+   git clone https://github.com/seu-usuario/Semeia.git
 
 npm install em seguida npm run dev*
 # ou
